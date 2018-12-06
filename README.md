@@ -59,7 +59,7 @@ terraform apply
 - If everything has gone successfully, you should see a screen as the one below
 
 
-![Successful apply](screenshots/successful_apply.pngg?raw=true "Screen after successful apply.")
+![Successful apply](screenshots/successful_apply.png?raw=true "Screen after successful apply.")
 
 
 - To destroy the infrastructure you provisioned just run the line below
