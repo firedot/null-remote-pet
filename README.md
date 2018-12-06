@@ -6,7 +6,7 @@ Terraform null resource, that uses remotely produced random_pet name
 - Terraform installed. You could get it [here](https://www.terraform.io/downloads.html)
 - Terraform Enterprise account. Find out more [here](https://www.hashicorp.com/products/terraform)
 - You need to fork the following repository to your GitHub account:
-  - [Link](https://github.com/firedot/random-pet)
+  - [Terraform random_pet resource](https://github.com/firedot/random-pet)
 - Make a quick pass trough the TFE [getting started guide](https://www.terraform.io/docs/enterprise/getting-started/index.html) and:
     - Configure VCS Access
     - Create a workspace and as a source use the forked repo
